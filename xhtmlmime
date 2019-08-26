@@ -99,13 +99,13 @@ Set B<$charset> to the encoding used on your website.  The default is B<utf-8>, 
 
 Blosxom and application/xhtml+xml:
 
-B<http://sgp.me.uk/sam/2005/06/06/xhtml-mime-plugin>
+B<http://sgp.me.uk/2005/06/06/xhtml-mime-plugin>
 
 I am aware that another similar plugin named B<xhtml> was once written.  I was unable to locate a copy after a cursory bit of googling, so I wrote this one.  I would be surprised if there were any substantial differences between the two.
 
 =head1 AUTHOR
 
-Sam Pearson <http://sgp.me.uk/sam>
+Sam Pearson <http://sgp.me.uk/>
 
 =head1 LICENSE
 
